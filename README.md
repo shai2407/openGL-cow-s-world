@@ -2,7 +2,9 @@
 A world is described in which a cow walks in a meadow
 
 Cow Drawing OpenGL Program Help:
+
 ================================
+
 Use the following keys to control the cow:
 w: Move cow up
 s: Move cow down
@@ -30,7 +32,8 @@ Right-click the window to access the context menu for more options.
 
 ![image](https://github.com/shai2407/openGL-cow-s-world/assets/94295378/5f75c112-7aa8-48ca-9fd4-97030268b05d)
 
-![image](https://github.com/shai2407/openGL-cow-s-world/assets/94295378/bfcc14c9-e2a2-4a46-b677-f38135e966ca)
+![image](https://github.com/shai2407/openGL-cow-s-world/assets/94295378/f77dabd8-d290-4a73-937a-0b6b4fc32f3c)
+
 
 ![image](https://github.com/shai2407/openGL-cow-s-world/assets/94295378/1f44f8dc-aa59-4bec-a16f-26bf932424f4)
 
